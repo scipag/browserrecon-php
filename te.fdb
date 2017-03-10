@@ -1,0 +1,15 @@
+Opera 9.24;deflate, gzip, chunked, identity, trailers
+Opera 9.27;deflate, gzip, chunked, identity, trailers
+W3C Validator 1.575;deflate,gzip;q=0.3
+Hatena Antenna 0.5;deflate,gzip;q=0.3
+LWP::Simple 5.805;deflate,gzip;q=0.3
+Opera 9.50;deflate, gzip, chunked, identity, trailers
+Opera 9.21;deflate, gzip, chunked, identity, trailers
+Microsoft Internet Explorer 6.0;deflate,gzip;q=0.3
+Tulip Chain 6.03;trailers, deflate, gzip, compress
+Opera 7.60;deflate, gzip, chunked, identity, trailers
+Opera 9.20;deflate, gzip, chunked, identity, trailers
+Netscape Navigator 3.0;deflate,gzip;q=0.3
+Amaya 2.1;trailers,deflate
+Amaya 4.1;trailers,deflate
+Deja Vu Browser Emulator 0.9;deflate,gzip;q=0.3

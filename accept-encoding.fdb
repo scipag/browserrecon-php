@@ -1,0 +1,126 @@
+Mozilla Firefox 2.0.0.14;gzip,deflate
+Microsoft Internet Explorer 7.0;gzip, deflate
+Opera 9.24;deflate, gzip, x-gzip, identity, *;q=0
+Opera 9.27;deflate, gzip, x-gzip, identity, *;q=0
+Sony Playstation 3 Browser 2.20;identity
+Mozilla BonEcho 2.0.0.12;gzip,deflate
+Mozilla Firefox 2.0.0.9;gzip,deflate
+Netscape Navigator 4.8;gzip
+Mozilla BonEcho 2.0.0.3;gzip,deflate
+Mozilla Firefox 2.0.0.12;gzip,deflate
+Yahoo! Slurp;gzip, x-gzip
+Yahoo! Slurp 3.0;gzip,deflate
+Mozilla Firefox 3 Beta 5;gzip,deflate
+Mozilla Firefox 1.5.0.2;gzip,deflate
+Microsoft Internet Explorer 6.0;gzip, deflate
+Mozilla Seamonkey 1.1.4;gzip,deflate
+Mozilla Firefox 2.0.0.2;gzip,deflate
+Mozilla Firefox 1.5.0.11;gzip,deflate
+Mozilla BonEcho 2.0.0.8;gzip,deflate
+Konqueror 3.5.7;x-gzip, x-deflate, gzip, deflate
+Lynx 2.8.5;gzip, compress
+Googlebot 2.1;gzip,deflate
+Mozilla Firefox 2.0.0.13;gzip,deflate
+Ask Jeeves;gzip, deflate
+Mozilla Iceweasel 2.0.0.12;gzip,deflate
+Epiphany 2.14;gzip,deflate
+Apple Safari 3.0.3;gzip, deflate
+Apple Safari 3.1.1;gzip, deflate
+Mozilla Firefox 2.0.0.11;gzip,deflate
+w3m 0.5.1;gzip, compress, bzip, bzip2, deflate
+WinHTTrack Website Copier 3.41;gzip, identity;q=0.9
+VoilaBot Beta 1.2;gzip, identity, *;q=0
+Mozilla Firefox 2.0.0.8;gzip,deflate
+Charlotte 1.1;gzip, x-gzip
+Mozilla Iceweasel 2.0.0.14;gzip,deflate
+Opera 9.50;deflate, gzip, x-gzip, identity, *;q=0
+Mozilla Firefox 1.5.0.12;gzip,deflate
+Mozilla Firefox 1.5.0.4;gzip, deflate
+Netscape Navigator 9.0;gzip,deflate
+Microsoft Internet Explorer 8.0;gzip, deflate
+Mozilla Firefox 2.0.0.3;gzip,deflate
+Yoono Yoofind 0.1;x-gzip, gzip
+Samsung SGH-A737;deflate, gzip
+Apple Safari 3.0;gzip, deflate
+Baidu Baiduspider;gzip
+Mozilla Firefox 3 Beta 3;gzip,deflate
+Sagool MaSagool 1.0;x-gzip, gzip
+Links 2.1pre33;gzip, deflate
+Opera 9.23;deflate, gzip, x-gzip, identity, *;q=0
+Microsoft Internet Explorer 4.01;gzip, deflate
+Konqueror 3.5;x-gzip, x-deflate, gzip, deflate
+Mozilla Firefox 2.0.0.10;gzip,deflate
+Opera 9.21;identity
+Opera 9.26;deflate, gzip, x-gzip, identity, *;q=0
+Opera 9.20;deflate, gzip, x-gzip, identity, *;q=0
+Apache Lucene Nutch 1.0;x-gzip, gzip
+Konqueror 3.5.9;x-gzip, x-deflate, gzip, deflate
+Opera 9.25;deflate, gzip, x-gzip, identity, *;q=0
+Mozilla Firefox 2.0.0.6;gzip,deflate
+Mozilla Firefox 2.0.0.5;gzip,deflate
+Mozilla Firefox 2.0.0.1;gzip,deflate
+Mozilla Firefox 1.0.3.0;gzip,deflate
+Opera 9.01;deflate, gzip, x-gzip, identity, *;q=0
+Tulip Chain 6.03;deflate, gzip, x-gzip, compress, x-compress
+Mozilla Navigator 4.75;gzip
+Netscape Navigator 4.6;gzip
+Lynx 2.6.0;gzip, compress
+Netscape Navigator 4.73;gzip
+Sony Playstation 3 Update-Agent 1.0.0;identity
+Opera 7.60;deflate, gzip, x-gzip, identity, *;q=0
+Konqueror 2.2.1;x-gzip, gzip, identity
+Microsoft Internet Explorer 5.0;gzip, deflate
+Netscape Navigator 4.7;gzip
+Netscape Navigator 4.77;gzip
+Netscape Navigator 4.06;gzip
+PocketHTTP 1.2.5;gzip, deflate
+Amaya 4.0;*,deflate
+Mozilla Firefox 1.5;gzip,deflate
+Konqueror 3.5.5;x-gzip, x-deflate, gzip, deflate
+Mozilla Firefox 2.0.0.4;gzip,deflate
+WebofantBot 2.21;gzip
+Robozilla 1.0;gzip
+Opera 9.20;gzip,deflate
+Mozilla Firefox 2.0.0.7;gzip,deflate
+Tailrank Spinn3r 2.1;gzip
+Gaisbot 3.0;gzip, deflate
+Metadata Labs MLBot;gzip, deflate
+Woriobot;identity
+Grub 2.0;x-gzip, gzip
+ShopWiki Bot 1.0;gzip
+Searchme Charlotte 0.9t;gzip,deflate
+Commoncrawl CCBot 1.0;gzip
+Netscape Navigator 6.2.1;gzip, deflate, compress;q=0.9
+Mozilla Firefox 1.5.0.3;gzip,deflate
+Nutch 0.9;x-gzip, gzip
+Netscape Navigator 7.2;gzip,deflate
+Apple Safari 3.0.4;gzip, deflate
+ScoutJet Web Crawler;gzip
+WebAlta Crawler 2.0;gzip;q=1.0, deflate;q=1.0, identity;q=0.5, *;q=0
+Konqueror 3.5.6;x-gzip, x-deflate, gzip, deflate
+Yahoo! Slurp 3.0;gzip, x-gzip
+Mozilla Firefox 1.5.0.1;gzip,deflate
+Google Search Appliance Crawler;gzip
+Amaya 2.1;*,deflate
+Amaya 4.1;*,deflate
+Massive Inc. Adclient 1.0;deflate
+Nokia 6630 1.0;gzip,deflate,identity;q=0.9
+Beonex 0.6;gzip,deflate,compress,identity
+Beonex 0.8;gzip, deflate, compress;q=0.9
+Flock 0.4;gzip,deflate
+Flock 1.2.1;gzip,deflate
+Googlebot-Mobile 2.1;gzip,deflate
+Samsung SGH-D500;deflate,gzip
+Nokia N73;deflate, gzip
+Opera 9.00;deflate, gzip, x-gzip, identity, *;q=0
+Apple iTunes 4.2;gzip, x-aes-cbc
+Apple iPhone 1.1.1;gzip, deflate
+AppTapp Installer 3.0;gzip, deflate
+RealMedia Analyzer 1.0;gzip
+Apple iTunes 5.0;gzip, x-aes-cbc
+Apple iTunes 6.0.4;gzip, x-aes-cbc
+Apple iTunes 6.0.2;gzip, x-aes-cbc
+SonyEricsson K750i;deflate, gzip, compress;q=0.1, identity
+Ayell Euronet Eurobot 1.0;x-gzip, gzip
+SimplePie 1.0.1;deflate, gzip
+Mozilla Firefox 1.5.0.7;gzip,deflate
